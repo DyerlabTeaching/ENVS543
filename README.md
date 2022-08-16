@@ -1,4 +1,6 @@
+<p align="center">
 ![](DataAnimation.gif)
+</p>
 
 # ENVS 543: Environmental Data Literacy
 
