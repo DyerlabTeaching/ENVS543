@@ -22,8 +22,9 @@ To understand data analytics, one needs to recognize the entire workflow.  Below
 - **Model:**  The application of models to subsets of data is often the step that takes the least amount of time and effort.  However, the application of a model to data is not the endpoint.  The model must be visualized and, many times, the underlying data or derivate data must be transformed and submitted to subsequent models.
 - **Communicate:** The effort we put into research and analyses is meaningless without effective communication of your data and findings to a broad audience.  Here we will focus on how to develop effective data communication strategies and formats.
 
-![Common data analysis workflow schematic.  Notice, it is not a linear process, but one that reticualtes back upon itself.](workflow.png)
-
+<p align="center">
+  <img src="workflow.png">
+</p>
 
 ## Learning Objectives
 
