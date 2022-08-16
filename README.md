@@ -10,17 +10,17 @@ As both a student and instructor in statistics classes, I found I spent a vast a
 
 ## Workflow in Data Analysis
 
-To understand data analytics, one needs to recognize the entire workflow.  Below is a brief graphical depiction of how analysis actually works—in the real world.  
-
-![Common data analysis workflow schematic.  Notice, it is not a linear process, but one that reticualtes back upon itself.](workflow.png)
-
-In this class, we will work on all of these components using the open-source R language.
+To understand data analytics, one needs to recognize the entire workflow.  Below is a brief graphical depiction of how analysis actually works—in the real world.  In this class, we will work on all of these components using the open-source R language.
 
 - **Collect:** Getting data from an external source into a format that you can use is often the most time-consuming step in the analysis.  The content of this class will provide training in data import from local, online, and database sources.  
 - **Visualize:** Visualizing data is key to understanding.  In the image below, notice that the variables X and Y in all the displayed data sets have equivalent means, standard deviations, and correlation up to 2 decimal places!  We will emphasize visualization, both static and dynamic, throughout this class.
 - **Transform:** Pulling data into your analysis ecosystem is not sufficient.  Often the data need to be reformatted and reconfigured before it is actually usable.
 - **Model:**  The application of models to subsets of data is often the step that takes the least amount of time and effort.  However, the application of a model to data is not the endpoint.  The model must be visualized and, many times, the underlying data or derivate data must be transformed and submitted to subsequent models.
 - **Communicate:** The effort we put into research and analyses is meaningless without effective communication of your data and findings to a broad audience.  Here we will focus on how to develop effective data communication strategies and formats.
+
+![Common data analysis workflow schematic.  Notice, it is not a linear process, but one that reticualtes back upon itself.](workflow.png)
+
+
 
 ## Learning Objectives
 
