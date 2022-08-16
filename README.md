@@ -51,10 +51,10 @@ Tidyverse | Data manipulation.  Like a boss. | 1, 2
 Graphics that DON’T suck | Hello publication quality graphics, using the grammar of graphics approach | 2,3
 Confidence on a Mean | Base understanding of statistical inferences and the properties of sampled data | 1,2,4
 Biniomial Inferences | Analyses based upon expectations.  | 4
-Categorical ~ f(Categorical) | Contingency table and categorical count data | 4
-Continuous ~ f(Categorical) | Analysis of Variance (or equality of means) | 4
-Continuous ~ f(Continuous) | Correlation & Regression approaches | 4
-Categorical ~ f(Continuous) | Logistic regression | 4
+Categorical~f(Categorical) | Contingency table and categorical count data | 4
+Continuous~f(Categorical) | Analysis of Variance (or equality of means) | 4
+Continuous~f(Continuous) | Correlation & Regression approaches | 4
+Categorical~f(Continuous) | Logistic regression | 4
 Points, Lines, & Polygons | Spatial data as vectors | 3,5 
 Raster Data | Continuously distributed spatial data | 3,5
 Cartography | Creating usable and understandable maps and symbolic representation of spatial data | 3,4
