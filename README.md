@@ -39,7 +39,7 @@ This course is designed as a sequence of individual, stand-alone modules.  Each 
 
 Deliverable       | Details                                  | SLO  
 ------------------|------------------------------------------|-----------
-Welcome & Logistics <br> <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-red"></a> | Setting up the logistics for the class, getting R, RStudio, and Quarto installed on each of your machines, and getting a tour of the IDE.  |  NA
+Welcome & Logistics <br> <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> | Setting up the logistics for the class, getting R, RStudio, and Quarto installed on each of your machines, and getting a tour of the IDE.  |  NA
 Markdown | Learn to use markdown to mix data, analyses, output, graphics, and reserach narratives | 2
 Git & Github | Establish a functional working knowledge of git as a collaborative tool for reproducable research | 2
 Data Types | Understanding the fundamnetal data types within R and how to easily import, work with, and export raw data | 1,2 
