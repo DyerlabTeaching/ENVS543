@@ -40,24 +40,61 @@ This course is designed as a sequence of individual, stand-alone modules.  Each 
 
 Deliverable       | Details                                  | SLO  
 ------------------|------------------------------------------|-----------
-Welcome & Logistics | Setting up the logistics for the class |  `NA`
+Welcome & Logistics | Setting up the logistics for the class |  NA
 Markdown | Learn to use markdown to mix data, analyses, output, graphics, and reserach narratives | 2
 Git & Github | Establish a functional working knowledge of git as a collaborative tool for reproducable research | 2
-Data Types | Understanding the fundamnetal data types within R and how to easily import, work with, and export raw data | 1, 2 
-Data Containers | Creation, import, and export of vectors, matrices, data.tables, and lists for reliable data representation | 1, 2
+Data Types | Understanding the fundamnetal data types within R and how to easily import, work with, and export raw data | 1,2 
+Data Containers | Creation, import, and export of vectors, matrices, data.tables, and lists for reliable data representation | 1,2
 Tidyverse | Data manipulation.  Like a boss. | 1, 2
-Graphics that DON’T suck | Hello publication quality graphics, using the grammar of graphics approach | 2, 3.
-Confidence on a Mean | Base understanding of statistical inferences and the properties of sampled data | 1, 2, 4
+Graphics that DON’T suck | Hello publication quality graphics, using the grammar of graphics approach | 2,3
+Confidence on a Mean | Base understanding of statistical inferences and the properties of sampled data | 1,2,4
 Biniomial Inferences | Analyses based upon expectations.  | 4
 Categorical ~ f(Categorical) | Contingency table and categorical count data | 4
 Continuous ~ f(Categorical) | Analysis of Variance (or equality of means) | 4
 Continuous ~ f(Continuous) | Correlation & Regression approaches | 4
 Categorical ~ f(Continuous) | Logistic regression | 4
-Points, Lines, & Polygons | Spatial data as vectors | 3, 5 
-Raster Data | Continuously distributed spatial data | 3, 5
-Cartography | Creating usable and understandable maps and symbolic representation of spatial data | 3, 4
+Points, Lines, & Polygons | Spatial data as vectors | 3,5 
+Raster Data | Continuously distributed spatial data | 3,5
+Cartography | Creating usable and understandable maps and symbolic representation of spatial data | 3,4
 Census Data | Human data based upon the US census. | 3,4,5
 Raytracing | Higher dimensional visualization of spatial extents.  | 3,5
+
+## Logistics
+
+- Course Instructor:  Professor Rodney Dyer 
+- Email: [rjdyer@vcu.edu](mailto://rjdyer@vcu.edu) 
+- Webpage: [dyerlab.org](https://dyerlab.org). 
+- Office Hours:  Online each Tuesday & Thursday from 10-11 am via zoom or by appointment.
+
+## Required Materials
+This course requires that you bring your own laptop or other computing devices that is capable of running RStudio and the R statistical language.  There is no required book and all content is provided via online resources.
+
+## Assignments & Grading Policy
+
+The grade for this course is based upon the totality of the points gained for all assignments as well as a single large data analysis project that will be due at the end of the semester.  This final will account for 10% of your overall grade.  Grades will be determined using the normal 10% scales: 
+- A (>= 90%),  
+- B (>= 80% & < 90%),  
+- C (>= 70% & < 80%), 
+- D (>= 60% & < 70%), and 
+- F (< 60%).  
+
+All percentages are concrete and acores will be rounded to the appropriate whole number.  No extra credit will be given.
+
+## Late Policy
+
+All of the content in this class is given as take-home assignments and tests.  You will have a full 7 days to complete and turn in the work.  The intention here is to give you more than sufficient time to complete the work because we do not rush data analysis.  On the due date, I post the answers so you can check your work.  After the answers are posted, there will be no points awarded for late work.
+
+## Attendance Policy
+
+All content is provided as slides, handouts, and video content.  Much of the work in this class will be conducted during the in-class session.  As such, you must show up to class if you intend to get the content.  Data analysis is a hands-on experience and the more doing it you engage in, the more efficient you will become.
+
+## Disclaimer
+
+Note that the specifics of this Course Syllabus may be changed at any time during the semester.  You will be responsible for abiding by any such changes that are communicated to you via email, course announcement, and/or posting in the course discussion forums.
+
+## VCU Policies
+
+Students should visit http://go.vcu.edu/syllabus and review all syllabus statement information. The full university syllabus statement includes information on safety, registration, the VCU Honor Code, student conduct, withdrawal, and more.
 
 
 
