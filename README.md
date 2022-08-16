@@ -32,7 +32,18 @@ The content of this course is built upon the following general student learning 
 - SLO 2: Create an informative and effective graphical display of various data types of suitable quality for inclusion in published manuscripts.
 - SLO 3: Demonstrate a general understanding of spatial data types and the creation of both appropriate static and dynamic maps.
 - SLO 4: Effectively choose appropriate statistical models based upon the types of data at hand and the questions being addressed.
-Course Content & Assessment
+
+
+## Course Content & Assessment
+
 This course is designed as a sequence of individual, stand-alone modules.  Each is self-contained and includes a lecture, slides, a larger narrative document, a video demonstration, and an assessment. 
+
+Deliverable       | Details                                  | SLO  
+------------------|------------------------------------------|-----------
+Welcome & Logistics | Setting up the logistics for the class |  `NA`
+
+
+
+
 
 
