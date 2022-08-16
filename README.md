@@ -1,6 +1,6 @@
 # ENVS 543: Environmental Data Literacy
 
-Hello.  My name is Dr. Rodney Dyer and this is a course I've developed to serve as the entry course for incoming Environmental Studies graduate students and advanced undergraduates.  
+<img align="right" src="dyer.png"> Hello.  My name is Dr. Rodney Dyer and this is a course I've developed to serve as the entry course for incoming Environmental Studies graduate students and advanced undergraduates.  
 
 The rationale for this class is as follows.  
 
