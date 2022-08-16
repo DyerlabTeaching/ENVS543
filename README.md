@@ -1,5 +1,5 @@
 <p align="center">
-![](DataAnimation.gif)
+  <img src="DataAnimation.gif">
 </p>
 
 # ENVS 543: Environmental Data Literacy
