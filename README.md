@@ -29,10 +29,10 @@ The purpose of this course is to help you build your data skills and to develop 
 The content of this course is built upon the following general student learning objectives (SLO):
 
 - SLO 1: Identity, manipulate, and summarize numerical, categorical, ordinal, logical, date, string, and spatial data types.
-- SLO 2: Create an informative and effective graphical display of various data types of suitable quality for inclusion in published manuscripts.
-- SLO 3: Demonstrate a general understanding of spatial data types and the creation of both appropriate static and dynamic maps.
+- SLO 2: Create habits and took knowledge to support reproducible research.  
+- SLO 3: Create an informative and effective graphical display of various data types of suitable quality for inclusion in published manuscripts.
 - SLO 4: Effectively choose appropriate statistical models based upon the types of data at hand and the questions being addressed.
-
+- SLO 5: Demonstrate a general understanding of spatial data types and the creation of both appropriate static and dynamic maps.
 
 ## Course Content & Assessment
 
@@ -41,7 +41,23 @@ This course is designed as a sequence of individual, stand-alone modules.  Each 
 Deliverable       | Details                                  | SLO  
 ------------------|------------------------------------------|-----------
 Welcome & Logistics | Setting up the logistics for the class |  `NA`
-
+Markdown | Learn to use markdown to mix data, analyses, output, graphics, and reserach narratives | 2
+Git & Github | Establish a functional working knowledge of git as a collaborative tool for reproducable research | 2
+Data Types | Understanding the fundamnetal data types within R and how to easily import, work with, and export raw data | 1, 2 
+Data Containers | Creation, import, and export of vectors, matrices, data.tables, and lists for reliable data representation | 1, 2
+Tidyverse | Data manipulation.  Like a boss. | 1, 2
+Graphics that DON’T suck | Hello publication quality graphics, using the grammar of graphics approach | 2, 3.
+Confidence on a Mean | Base understanding of statistical inferences and the properties of sampled data | 1, 2, 4
+Biniomial Inferences | Analyses based upon expectations.  | 4
+Categorical ~ f(Categorical) | Contingency table and categorical count data | 4
+Continuous ~ f(Categorical) | Analysis of Variance (or equality of means) | 4
+Continuous ~ f(Continuous) | Correlation & Regression approaches | 4
+Categorical ~ f(Continuous) | Logistic regression | 4
+Points, Lines, & Polygons | Spatial data as vectors | 3, 5 
+Raster Data | Continuously distributed spatial data | 3, 5
+Cartography | Creating usable and understandable maps and symbolic representation of spatial data | 3, 4
+Census Data | Human data based upon the US census. | 3,4,5
+Raytracing | Higher dimensional visualization of spatial extents.  | 3,5
 
 
 
