@@ -1,5 +1,7 @@
 # ENVS 543: Environmental Data Literacy
 
+> Semester course; 3 lecture hours. 3 credits. Enrollment restricted to students with graduate standing, or those with one course in statistics and permission of instructor. Develop quantitative skills for the visualization, manipulation, analysis and communication of environmental "big data." This course focuses on spatial environmental data analysis, interpretation and communication, using real-time data from the Rice Rivers Center and the R statistical analysis environment.
+
 <img align="right" src="dyer.png"> Hello.  My name is Dr. Rodney Dyer and this is a course I've developed to serve as the entry course for incoming Environmental Studies graduate students and advanced undergraduates.  
 
 The rationale for this class is as follows.  
@@ -65,6 +67,9 @@ Raytracing | Higher dimensional visualization of spatial extents.  | 3,5
 - Email: [rjdyer@vcu.edu](mailto://rjdyer@vcu.edu) 
 - Webpage: [dyerlab.org](https://dyerlab.org). 
 - Office Hours:  Online each Tuesday & Thursday from 10-11 am via zoom or by appointment.
+- Credit Hours: 3
+- Meeting Times: T/R 12:00 - 13:45
+- 
 
 ## Required Materials
 This course requires that you bring your own laptop or other computing devices that is capable of running RStudio and the R statistical language.  There is no required book and all content is provided via online resources.
