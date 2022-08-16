@@ -8,8 +8,6 @@ The rationale for this class is as follows.
 
 As both a student and instructor in statistics classes, I found I spent a vast amount of time and effort describing the characteristics of statistics (derivations, expectations, etc.).  This is perfectly fine, it is important on many levels to make sure that practitioners understand the basis and context of all the kinds of analyses they use.  However, the drawback here, in my experience, is that once you've spent a semester or year getting all this knowledge under your belt, and one can easily demonstrate their understanding of the parameters in a model, they cannot actually work with real data.  This class is designed to produce practitioners of data analysis.
 
-
-
 ## Workflow in Data Analysis
 
 To understand data analytics, one needs to recognize the entire workflow.  Below is a brief graphical depiction of how analysis actually works—in the real world.  In this class, we will work on all of these components using the open-source R language.
@@ -21,7 +19,6 @@ To understand data analytics, one needs to recognize the entire workflow.  Below
 - **Communicate:** The effort we put into research and analyses is meaningless without effective communication of your data and findings to a broad audience.  Here we will focus on how to develop effective data communication strategies and formats.
 
 ![Common data analysis workflow schematic.  Notice, it is not a linear process, but one that reticualtes back upon itself.](workflow.png)
-
 
 
 ## Learning Objectives
@@ -67,9 +64,7 @@ Raytracing | Higher dimensional visualization of spatial extents.  | 3,5
 - Email: [rjdyer@vcu.edu](mailto://rjdyer@vcu.edu) 
 - Webpage: [dyerlab.org](https://dyerlab.org). 
 - Office Hours:  Online each Tuesday & Thursday from 10-11 am via zoom or by appointment.
-- Credit Hours: 3
 - Meeting Times: T/R 12:00 - 13:45
-- 
 
 ## Required Materials
 This course requires that you bring your own laptop or other computing devices that is capable of running RStudio and the R statistical language.  There is no required book and all content is provided via online resources.
@@ -83,7 +78,7 @@ The grade for this course is based upon the totality of the points gained for al
 - D (>= 60% & < 70%), and 
 - F (< 60%).  
 
-All percentages are concrete and acores will be rounded to the appropriate whole number.  No extra credit will be given.
+All percentages are concrete and acores will be rounded to the nearest integer and no extra credit will be given.
 
 ## Late Policy
 
