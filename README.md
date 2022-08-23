@@ -70,6 +70,7 @@ Raytracing | Higher dimensional visualization of spatial extents.  | 3,5
 - Webpage: [dyerlab.org](https://dyerlab.org). 
 - Office Hours:  Online each Tuesday & Thursday from 10-11 am via zoom or by appointment.
 - Meeting Times: T/R 12:30 - 13:45
+- Meeting Location: LFSCB 250
 - Final Exam Scheduled: Tuesday, December 13, 2022⋅12:30 – 15:20
 
 ## Required Materials
